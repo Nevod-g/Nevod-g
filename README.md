@@ -12,6 +12,7 @@
 [![codewars](https://www.codewars.com/users/Nevod-g/badges/small)](https://www.codewars.com/users/Nevod-g)
 ![](https://komarev.com/ghpvc/?username=Nevod-g)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nevod&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 name: Waka Readme
 
