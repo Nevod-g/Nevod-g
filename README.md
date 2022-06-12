@@ -7,7 +7,8 @@
 <br>🌍 I speak Russian (native), English (B2)
 <br>🤔 I’m looking for help with Web.
 
-[![codewars](https://www.codewars.com/users/Nevod-g/badges/large)](https://www.codewars.com/users/Nevod-g)<br>
+[![codewars](https://www.codewars.com/users/Nevod-g/badges/small)](https://www.codewars.com/users/Nevod-g)
+![](https://komarev.com/ghpvc/?username=Nevod-g)<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nevod-g&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nevod-g&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
