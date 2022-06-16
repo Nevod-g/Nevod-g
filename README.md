@@ -6,12 +6,13 @@
 <br>🌱 I’m currently learning C#, Web, HTML, Bootstrap, DevExtreme, AJAX, JS
 <br>🌍 I speak Russian (native), English (B2)
 <br>🤔 I’m looking for help with Web.
+<br>💬 <a href="https://t.me/NevodLD" target="_blank">Telegram</a>, <a href="https://t.me/nevodblog" target="_blank">Blog</a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nevod-g&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)<br>[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nevod&theme=dark&hide_border=true)](https://wakatime.com/@Nevod)<br>
 [![codewars](https://www.codewars.com/users/Nevod-g/badges/small)](https://www.codewars.com/users/Nevod-g)
 ![](https://komarev.com/ghpvc/?username=Nevod-g)
 
-<!--✨👯🤔💬😄⚡
+<!--✨👯😄⚡
 
 Используемые языки
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nevod-g&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
