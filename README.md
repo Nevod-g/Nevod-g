@@ -4,7 +4,7 @@
 
 🔭 Key skills: .Net, SQL, DevExpress, VB.Net, VBA, C#
 <br>🌱 I’m currently learning C#, Web, HTML, Bootstrap, DevExtreme, AJAX, JS
-<br>🌍 I speak Russian (native), English (B2)
+<br>🌍 I speak Russian (native), English (A2 tech. docs only)
 <br>🤔 I’m looking for help with Web.
 <br>💬 <a href="https://t.me/NevodLD" target="_blank">Telegram</a>, <a href="https://t.me/nevodblog" target="_blank">Blog</a>
 
