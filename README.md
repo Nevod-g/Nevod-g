@@ -7,6 +7,8 @@
 <br>🌍 I speak Russian (native), English (A2 tech. docs only)
 <br>🤔 I’m looking for help with Web.
 <br>💬 <a href="https://t.me/NevodLD" target="_blank">Telegram</a>, <a href="https://t.me/nevodblog" target="_blank">Blog</a>
+<br>:orange_heart:<a href="https://stackoverflow.com/users/15810831/newod" target="_blank">&nbsp;Stackoverflow.com</a>
+<br>:blue_heart:<a href="https://ru.stackoverflow.com/users/503194/nevod" target="_blank">&nbsp;Stackoverflow.com</a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nevod-g&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)<br>[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nevod&theme=dark&hide_border=true)](https://wakatime.com/@Nevod)<br>
 [![codewars](https://www.codewars.com/users/Nevod-g/badges/small)](https://www.codewars.com/users/Nevod-g)
