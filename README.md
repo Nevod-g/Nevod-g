@@ -13,6 +13,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nevod-g&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)<br>[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nevod&theme=dark&hide_border=true)](https://wakatime.com/@Nevod)<br>
 [![codewars](https://www.codewars.com/users/Nevod-g/badges/small)](https://www.codewars.com/users/Nevod-g)
 ![](https://komarev.com/ghpvc/?username=Nevod-g)
+[![wakatime](https://wakatime.com/badge/user/f09ea94b-2985-4e0e-baa1-ad6af7e4e571.svg)](https://wakatime.com/@f09ea94b-2985-4e0e-baa1-ad6af7e4e571)
 
 <!--✨👯😄⚡
 
