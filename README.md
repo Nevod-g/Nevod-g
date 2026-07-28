@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/NevodLD" target="_blank">Nevod</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h4 align="center"> Senior Software Engineer · .NET Developer · Game Director & Lead Developer </h4>
+<h4 align="center"> Senior Software Engineer · .NET Developer · Game Director &amp; Lead Developer </h4>
 
 🔭 Key skills: .Net, C#, SQL, DevExpress, VB.Net, VBA, Web API
-<br>🌱 I’m currently learning Unity  Bootstrap, DevExtreme, AJAX, JS
-<br>🌍 I speak Russian (native), English (A2 tech. docs only)
+<br>🌱 I’m currently learning <b>Unity</b>
+<br>🌍 I speak Russian (native), English
 <br>🤔 I’m looking for help with Unity.
 <br>💬 <a href="https://t.me/NevodLD" target="_blank">Telegram</a>, <a href="https://t.me/nevodblog" target="_blank">Blog</a>
 <br>:orange_heart:<a href="https://stackoverflow.com/users/15810831/newod" target="_blank">&nbsp;Stackoverflow.com</a>
@@ -17,7 +17,11 @@
   </a>
 </p>
 
-<p align="center"><a href="https://www.codewars.com/users/Nevod-g"><img src="https://www.codewars.com/users/Nevod-g/badges/small" alt="Codewars" height="20"></a>&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=Nevod-g" alt="Profile views" height="20">&nbsp;&nbsp;<a href="https://wakatime.com/@f09ea94b-2985-4e0e-baa1-ad6af7e4e571"><img src="https://wakatime.com/badge/user/f09ea94b-2985-4e0e-baa1-ad6af7e4e571.svg" alt="WakaTime" height="20"></a></p>
+<p align="center">
+  <a href="https://www.codewars.com/users/Nevod-g"><img src="https://www.codewars.com/users/Nevod-g/badges/small" alt="Codewars"></a>&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Nevod-g" alt="Profile views">&nbsp;&nbsp;
+  <a href="https://wakatime.com/@f09ea94b-2985-4e0e-baa1-ad6af7e4e571"><img src="https://wakatime.com/badge/user/f09ea94b-2985-4e0e-baa1-ad6af7e4e571.svg" alt="WakaTime"></a>
+</p>
 
 <!--✨👯😄⚡
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nevod-g&theme=dark&hide_border=true)](https://github.com/Nevod-g)<br>
