@@ -6,9 +6,10 @@
 <br>🌱 I’m currently learning <b>Unity</b>
 <br>🌍 I speak Russian (native), English
 <br>🤔 I’m looking for help with Unity.
+<br>
 <br>💬 <a href="https://t.me/NevodLD" target="_blank">Telegram</a>, <a href="https://t.me/nevodblog" target="_blank">Blog</a>
-<br>:orange_heart:<a href="https://stackoverflow.com/users/15810831/newod" target="_blank">&nbsp;Stackoverflow.com</a>
-<br>:blue_heart:<a href="https://ru.stackoverflow.com/users/503194/nevod" target="_blank">&nbsp;ru.Stackoverflow.com</a>
+<br>:blue_heart:<a href="https://ru.stackoverflow.com/users/503194/nevod">&nbsp;Stack Overflow на русском</a>
+<br>:orange_heart:<a href="https://stackoverflow.com/users/15810831/newod">&nbsp;Stack Overflow</a>
 
 <p align="center">
   <a href="https://github.com/Nevod-g">
